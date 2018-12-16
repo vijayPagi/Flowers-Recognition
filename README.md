@@ -1,2 +1,2 @@
-# Flowes-Recognition
+# Flowers-Recognition
 Image recognition project
